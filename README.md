@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdinesh195
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development!
+- 🌱 I’m currently learning Front-End Web Development!
 - 💞️ I’m looking to collaborate on the concepts around web development.
 - 📫 Reach me at sdinesh0195@gmail.com
 
